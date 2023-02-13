@@ -1,10 +1,10 @@
 # keels-pos
-keels-pint-of-sale application Backend
+keels-pint-of-sale application Backend using Spring Boot.
 
 This project include  lot of concept.Like,
   
     *) Used layered / extended MVC 
-    *)Used Swagger API and Swagger configurations
+    *)Used Swagger API (Swagger configuration class include in config package.)
     *)Lombock
     *)MapStruct
     *)Model Mapper
